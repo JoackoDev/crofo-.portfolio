@@ -1,7 +1,7 @@
 import type { NextPage } from 'next'
 import styled from '@emotion/styled'
 import Image from 'next/image'
-import worker from '../public/img/worker.png'
+import worker from '../../public/img/worker.png'
 
 const Title: NextPage = () => {
     const TitleStyled = styled.div`

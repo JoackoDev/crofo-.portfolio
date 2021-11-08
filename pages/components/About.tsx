@@ -1,8 +1,8 @@
 import type { NextPage } from "next";
 import styled from "@emotion/styled";
-import logo1 from "../public/img/logito.png";
-import logo2 from "../public/img/logito2.png";
-import logo3 from "../public/img/logito3.png";
+import logo1 from "../../public/img/logito.png";
+import logo2 from "../../public/img/logito2.png";
+import logo3 from "../../public/img/logito3.png";
 import Image from "next/image";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEnvelope, faLayerGroup } from "@fortawesome/free-solid-svg-icons";

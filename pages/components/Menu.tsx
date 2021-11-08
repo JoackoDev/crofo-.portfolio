@@ -1,6 +1,6 @@
 import type { NextPage } from 'next'
 import styled from '@emotion/styled'
-import MenuImage from '../public/img/menu.png'
+import MenuImage from '../../public/img/menu.png'
 import Image from 'next/image'
 
 const Menu: NextPage = () => {
